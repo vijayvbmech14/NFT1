@@ -10,7 +10,7 @@ module.exports = {
     hardhat: {
     },
      PolygonMumbai: {
-      url: process.env.NFT_STORAGE_API_KEY,
+      url: "https://polygon-mumbai.g.alchemy.com/v2/U3jho7w3eRqhyuXauK4myxMjdjK0Fe4v",
       accounts: [PRIVATE_KEY]
     }
   },
